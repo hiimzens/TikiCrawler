@@ -1,5 +1,5 @@
 # TikiCrawler
-Crawling data from Tiki E-Commerce Platform and extract it to a csv file.
+Crawling data from Tiki E-Commerce Platform and extracting it to a csv file.
 
 1. Install project
 - .Net Core 3.1 (Visual Studio 2019)
