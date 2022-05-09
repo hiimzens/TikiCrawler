@@ -8,5 +8,5 @@ Crawling data from Tiki E-Commerce Platform and extract it to a csv file.
 2. How to run the project
 - Run the project by Visual Studio with .Net Core Console Application
 3. Credit
-Nguyen Duc Hoang 
-https://www.linkedin.com/in/hoang-nguyen-35a80b1b0/
+Nguyen Duc Hoang. 
+LinkedIn: https://www.linkedin.com/in/hoang-nguyen-35a80b1b0/
